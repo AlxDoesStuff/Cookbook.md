@@ -2,4 +2,4 @@
 *An open-source cookbook in MD.*
 
 Current Languages:
-- German: [[Kochbuch]]
+- German: <Kochbuch>

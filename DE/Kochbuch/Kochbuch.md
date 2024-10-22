@@ -1,18 +1,18 @@
 ## Salate
 
 ### Fleisch- und Fischsalate
-- [[Tunfischsalat]]
+- <Tunfischsalat>
 
 ### Gemüsesalate
-- [[Gurkensalat]]
-- [[Griechischer Salat]]
+- <Gurkensalat>
+- <Griechischer Salat>
 
 
 ## Nudelgerichte
 
 ### Pasta
-- [[Parmesan-Knoblauch Pasta mit Pute]]
-- [[Spaghetti Bolognese]]
+- <Parmesan-Knoblauch Pasta mit Pute>
+- <Spaghetti Bolognese>
 
 ## Dips & Soßen
-- [[Tzaziki]]
+- <Tzaziki>
